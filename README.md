@@ -35,3 +35,10 @@ This first version intentionally stores no student data on a server. The student
 
 ## Test integrity
 The test intentionally converts open-ended rewrite items into objective multiple-choice equivalents so all 50 questions can be graded consistently and automatically.
+
+
+## GitHub results log
+Completed, timed-out, and focus-violation attempts can be appended to `logs/results.jsonl` by the Vercel serverless endpoint `api/log-result.js`. Each record includes student name, group, score, correct count, status, test start timestamp, submission timestamp, and server log timestamp.
+
+### Required Vercel environment variable
+Create `GITHUB_RESULTS_TOKEN` in the Vercel project's environment variables. Use a fine-grained GitHub token restricted to this repository with **Contents: Read and write** permission. Never place the token in Vite variables, source code, or any `VITE_*` environment variable because those are exposed to the browser. Redeploy after adding the environment variable.
