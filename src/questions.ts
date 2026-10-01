@@ -1,4 +1,17 @@
-export type Q={id:number;text:string,options:string[],answer:string,feedback:string};const q=(id:number,text:string,options:string[],answer:string,feedback:string):Q=>({id,text,options,answer,feedback});
+export type Q={id:number,part:string,instruction:string,text:string,options:string[],answer:string,feedback:string};
+const P:Record<number,[string,string]>={
+1:['Part 1 — Defining vs. Non-defining Relative Clauses','Choose the best answer.'],
+2:['Part 2 — Can You Drop the Relative Pronoun?','Choose DROP if the relative pronoun can be omitted. Choose KEEP if it cannot.'],
+3:['Part 3 — Correct the Mistake','Each sentence contains one relative-clause mistake. Choose the correctly rewritten sentence.'],
+4:['Part 4 — Prepositional Relative Clauses','Complete each sentence with the correct expression.'],
+5:['Part 5 — Formal vs. Informal Prepositional Clauses','Choose the formal rewrite with the preposition before the relative pronoun.'],
+6:['Part 6 — Nominal Relative Clauses','Choose the correct answer.'],
+7:['Part 7 — Rewrite Using an -ever Word','Choose the rewrite that keeps the original meaning.'],
+8:['Part 8 — Reduced Relative Clauses','Choose the correct reduced relative clause.'],
+9:['Part 9 — Advanced Relative Phrases','Choose the best expression.']
+};
+const part=(id:number)=>id<=8?1:id<=14?2:id<=20?3:id<=26?4:id<=30?5:id<=36?6:id<=40?7:id<=46?8:9;
+const make=(id:number,text:string,options:string[],answer:string,feedback:string):Q=>{const n=part(id);return{id,part:P[n][0],instruction:P[n][1],text,options,answer,feedback}};
 export const questions:Q[]=[
 make(1,'The developer ___ designed this application works for our company.',['which','who','whose','whom'],'who','Use who for a person functioning as the subject.'),
 make(2,'My brother, ___ lives in Canada, is a software engineer.',['that','which','who','where'],'who','Non-defining clauses about people use who, not that.'),
