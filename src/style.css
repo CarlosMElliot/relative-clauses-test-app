@@ -32,3 +32,43 @@
  .section-dots span{width:21px;height:21px;font-size:10px}
  .test-identity small{max-width:180px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 }
+
+/* Mobile-first homepage refinement */
+@media(max-width:700px){
+ body{background:#f3f7f8}
+ .start-shell{width:100%;max-width:none;padding:0 12px 28px}
+ .start-shell .hero{margin-top:10px}
+ .start-shell .card{padding:20px 16px 18px;border-radius:18px;box-shadow:0 10px 28px rgba(20,55,70,.07)}
+ .start-shell .brand-row{display:grid;grid-template-columns:42px minmax(0,1fr);gap:10px;padding-bottom:16px;margin-bottom:18px}
+ .start-shell .brand-mark{width:42px;height:42px;border-radius:12px}
+ .start-shell .brand-row>div:nth-child(2){min-width:0}
+ .start-shell .brand-row>div:nth-child(2) b{font-size:14px;line-height:1.15}
+ .start-shell .brand-row>div:nth-child(2) span{font-size:10px;white-space:normal;line-height:1.25}
+ .start-shell .teacher-link{display:none}
+ .start-shell .tag{font-size:10px;letter-spacing:.09em;line-height:1.35}
+ .start-shell h1{font-size:clamp(30px,9vw,40px);line-height:1.02;margin:9px 0 14px}
+ .start-shell .meta-pills{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px;margin:14px 0 16px}
+ .start-shell .meta-pills span{text-align:center;padding:8px 6px;font-size:11px;line-height:1.2}
+ .start-shell .muted{font-size:13px;line-height:1.5;margin:0}
+ .start-shell .form-grid{grid-template-columns:1fr;gap:12px;margin:20px 0}
+ .start-shell .field{gap:6px}
+ .start-shell .field>span{font-size:12px}
+ .start-shell .field input{min-height:48px;padding:13px 14px;font-size:16px;border-radius:12px}
+ .start-shell .rules{padding:16px 14px;margin:18px 0;border-radius:14px}
+ .start-shell .rules-head{align-items:flex-start;margin-bottom:12px}
+ .start-shell .rules-head>span{width:28px;height:28px;flex:0 0 28px}
+ .start-shell .rules-head b{font-size:13px}
+ .start-shell .rules-head small{font-size:11px;line-height:1.35}
+ .start-shell .rules-grid{grid-template-columns:1fr;gap:8px}
+ .start-shell .rules-grid>div{padding:12px}
+ .start-shell .rules-grid b{font-size:13px}
+ .start-shell .rules-grid p{font-size:13px;line-height:1.45;margin-top:4px}
+ .start-shell .rule-critical{font-size:12px;line-height:1.4;margin-top:12px;padding-top:12px}
+ .start-shell .wide{min-height:50px;font-size:15px;border-radius:12px}
+}
+@media(max-width:380px){
+ .start-shell{padding-left:8px;padding-right:8px}
+ .start-shell .card{padding:17px 13px 15px}
+ .start-shell h1{font-size:29px}
+ .start-shell .meta-pills{grid-template-columns:1fr 1fr}
+}
