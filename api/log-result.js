@@ -12,7 +12,7 @@ export default async function handler(req,res){
   if(get.ok){const j=await get.json();sha=j.sha;existing=Buffer.from(j.content,'base64').toString('utf8')}else if(get.status!==404)throw new Error('read failed');
   const rows=existing.trim()?existing.trim().split('\n').filter(Boolean).map(x=>{try{return JSON.parse(x)}catch{return null}}).filter(Boolean):[];rows.push(entry);
   const header='| # | Student | Group | Score | Correct | Attempt | Status | Started (UTC) | Submitted (UTC) | Logged (UTC) |\n|---:|---|---|---:|---:|---:|---|---|---|---|\n';
-  const esc=x=>String(x??'').replace(/\\|/g,'\\\\|');
+  const esc=x=>String(x??'').replace(/\|/g,'\\|');
   const table=header+rows.map((r,i)=>`| ${i+1} | ${esc(r.name)} | ${esc(r.group||'—')} | ${r.score}/100 | ${r.correct}/${r.total} | ${r.attempt||1} | ${esc(r.status)} | ${esc(r.startedAt)} | ${esc(r.submittedAt)} | ${esc(r.loggedAt)} |`).join('\n')+'\n';
   const content=existing+JSON.stringify(entry)+'\n';
   const put=await fetch(url,{method:'PUT',headers:{...h,'Content-Type':'application/json'},body:JSON.stringify({message:`Log test result: ${entry.name||'student'} - ${entry.score}/100`,content:Buffer.from(content).toString('base64'),...(sha?{sha}:{})})});
