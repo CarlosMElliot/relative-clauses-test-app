@@ -6,3 +6,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 |---:|---|---|---:|---:|---:|---|---|---|---|
 | 1 | Carlos Mercado | test | 0/100 | 0/50 | 1 | Submitted by student | 2026-10-01T09:01:46.790Z | 2026-10-01T09:02:17.151Z | 2026-10-01T09:02:17.688Z |
 | 2 | Test | Test | 0/100 | 0/50 | 1 | Submitted by student | 2026-10-01T09:06:57.764Z | 2026-10-01T09:07:29.903Z | 2026-10-01T09:07:30.213Z |
+| 3 | Tes | Test | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-01T09:21:06.717Z | 2026-10-01T09:21:12.088Z | 2026-10-01T09:21:12.352Z |
