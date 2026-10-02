@@ -10,3 +10,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 4 | Test | Test | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-01T22:34:32.919Z | 2026-10-01T22:34:58.751Z | 2026-10-01T22:34:59.512Z |
 | 5 | test | test | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-02T05:37:09.427Z | 2026-10-02T05:37:15.989Z | 2026-10-02T05:37:17.428Z |
 | 6 | fd | fsd | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-02T05:37:20.863Z | 2026-10-02T05:37:22.021Z | 2026-10-02T05:37:22.700Z |
+| 7 | test | test | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-02T05:39:20.444Z | 2026-10-02T05:39:20.697Z | 2026-10-02T05:39:21.908Z |
