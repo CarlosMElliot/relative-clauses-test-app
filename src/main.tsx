@@ -12,7 +12,7 @@ function App(){
  const[phase,setPhase]=useState<'start'|'test'|'done'|'disqualified'>('start'),[name,setName]=useState(''),[group,setGroup]=useState(''),[ans,setAns]=useState<Ans>({}),[left,setLeft]=useState(DURATION),[reason,setReason]=useState(''),[section,setSection]=useState(0),[showReview,setShowReview]=useState(false),[bonus,setBonus]=useState<Record<string,string>>({}),[attemptNo,setAttemptNo]=useState(1);
  const logAttempt=async(status:string,finalScore:number,finalCorrect:number)=>{try{await fetch('/api/log-result',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({name:name.trim(),group:group.trim(),score:finalScore,correct:finalCorrect,total:questions.length,status,startedAt:startedAt.current,submittedAt:new Date().toISOString(),attempt:attemptNo})})}catch{}};
  const submit=(why='Submitted by student')=>{const c=questions.filter(q=>ans[q.id]===q.answer).length;const s=Math.round(c/questions.length*100);setReason(why);void logAttempt(why,s,c);setPhase('done');document.exitFullscreen?.().catch(()=>{})};
- const disqualify=()=>{void logAttempt(VIOLATION_REASON,0,0);setAns({});setLeft(DURATION);setReason(VIOLATION_REASON);setPhase('disqualified')};
+ const disqualify=()=>{window.scrollTo({top:0,left:0,behavior:'auto'});void logAttempt(VIOLATION_REASON,0,0);setAns({});setLeft(DURATION);setReason(VIOLATION_REASON);setPhase('disqualified');requestAnimationFrame(()=>window.scrollTo({top:0,left:0,behavior:'auto'}))};
 
  useEffect(()=>{if(phase!=='test')return;const id=setInterval(()=>setLeft(x=>{if(x<=1){clearInterval(id);setTimeout(()=>submit('Time expired'),0);return 0}return x-1}),1000);return()=>clearInterval(id)},[phase]);
 
@@ -22,7 +22,7 @@ function App(){
 
  const score=Math.round(questions.reduce((n,q)=>n+(ans[q.id]===q.answer?1:0),0)/questions.length*100);
  const start=async()=>{if(!name.trim())return alert('Enter your full name.');setAns({});setLeft(DURATION);setReason('');setSection(0);startedAt.current=new Date().toISOString();try{await document.documentElement.requestFullscreen()}catch{}setPhase('test')};
- const retake=()=>{setAttemptNo(x=>x+1);setAns({});setBonus({});setLeft(DURATION);setReason('');setSection(0);setPhase('start')};
+ const retake=()=>{window.scrollTo({top:0,left:0,behavior:'auto'});setAttemptNo(x=>x+1);setAns({});setBonus({});setLeft(DURATION);setReason('');setSection(0);setPhase('start');requestAnimationFrame(()=>window.scrollTo({top:0,left:0,behavior:'auto'}))};
  const sections=[...new Set(questions.map(q=>q.part))];
  const currentPart=sections[section];
  const currentQuestions=questions.filter(q=>q.part===currentPart);
