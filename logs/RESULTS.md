@@ -53,3 +53,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 47 | melany sofia martinez pérez | level 13 | 74/100 | 37/50 | 1 | Submitted by student | 2026-10-03T18:28:44.790Z | 2026-10-03T18:38:36.147Z | 2026-10-03T18:38:37.142Z |
 | 48 | sara aburto | level 13 A | 96/100 | 48/50 | 1 | Submitted by student | 2026-10-03T18:24:32.733Z | 2026-10-03T18:38:51.099Z | 2026-10-03T18:38:51.511Z |
 | 49 | Osmara Carolina Gutierrez Romero | Level 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:30:42.713Z | 2026-10-03T18:40:50.195Z | 2026-10-03T18:40:50.686Z |
+| 50 | Amalia Sofia de Guadalupe Maltez Garcia | Level 13 | 96/100 | 48/50 | 3 | Submitted by student | 2026-10-03T18:27:50.361Z | 2026-10-03T18:42:00.977Z | 2026-10-03T18:42:01.663Z |
