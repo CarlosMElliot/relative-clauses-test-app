@@ -22,3 +22,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 16 | Carlos Josue Mercado Obando | 13 | 0/100 | 0/50 | 3 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:23:22.084Z | 2026-10-03T18:23:26.588Z | 2026-10-03T18:23:27.577Z |
 | 17 | Osmara Gutierrez | Nivel 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:23:53.735Z | 2026-10-03T18:24:06.900Z | 2026-10-03T18:24:07.319Z |
 | 18 | Alizeth Francela Sánchez Ruiz | 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:24:25.297Z | 2026-10-03T18:24:35.144Z | 2026-10-03T18:24:35.804Z |
+| 19 | Oscar Daniel Herrera Juarez | 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:24:51.391Z | 2026-10-03T18:24:57.738Z | 2026-10-03T18:24:47.575Z |
