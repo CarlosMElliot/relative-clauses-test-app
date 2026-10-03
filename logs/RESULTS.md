@@ -15,3 +15,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 9 | test | tes | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-02T13:36:18.092Z | 2026-10-02T13:36:20.557Z | 2026-10-02T13:36:20.965Z |
 | 10 | Carlos Mercado | — | 0/100 | 0/30 | 1 | Submitted by student | 2026-10-03T04:04:18.218Z | 2026-10-03T04:04:30.460Z | 2026-10-03T04:04:31.008Z |
 | 11 | Carlos Mercado | 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T04:04:58.660Z | 2026-10-03T04:05:12.742Z | 2026-10-03T04:05:13.289Z |
+| 12 | Oscar Manuel Armas Pineda | Level 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T17:58:44.522Z | 2026-10-03T17:59:58.759Z | 2026-10-03T18:00:14.598Z |
