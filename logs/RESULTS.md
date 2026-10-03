@@ -48,3 +48,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 42 | Andrea Sofia Flores Aleman | Level 13 | 0/100 | 0/50 | 6 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:37:40.544Z | 2026-10-03T18:37:45.747Z | 2026-10-03T18:37:46.144Z |
 | 43 | Andrea Sofia Flores Aleman | Level 13 | 0/100 | 0/50 | 7 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:37:55.726Z | 2026-10-03T18:37:59.455Z | 2026-10-03T18:37:59.712Z |
 | 44 | Andrea Sofia Flores Aleman | Level 13 | 0/100 | 0/50 | 8 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:38:10.867Z | 2026-10-03T18:38:15.605Z | 2026-10-03T18:38:15.804Z |
+| 45 | Andrea Sofia Flores Aleman | Level 13 | 0/100 | 0/50 | 9 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:38:19.177Z | 2026-10-03T18:38:23.240Z | 2026-10-03T18:38:23.385Z |
