@@ -57,3 +57,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 51 | Gabriela Yahaira Zeledón López | 13 | 86/100 | 43/50 | 1 | Submitted by student | 2026-10-03T18:24:29.190Z | 2026-10-03T18:42:59.190Z | 2026-10-03T18:42:59.374Z |
 | 52 | sarai brenes romero | level 13 A IJEP SAT SM S4 2026 | 98/100 | 49/50 | 1 | Submitted by student | 2026-10-03T18:26:06.509Z | 2026-10-03T18:43:20.939Z | 2026-10-03T18:43:21.506Z |
 | 53 | Imara Andrea Saavedra Hernandez | level 13 A | 96/100 | 48/50 | 2 | Submitted by student | 2026-10-03T18:25:10.532Z | 2026-10-03T18:44:47.395Z | 2026-10-03T18:44:47.221Z |
+| 54 | Osmara Carolina Gutierrez Romero | Level 13 | 0/100 | 0/50 | 2 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:40:58.015Z | 2026-10-03T18:45:05.111Z | 2026-10-03T18:45:05.606Z |
