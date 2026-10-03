@@ -36,3 +36,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 30 | Luis Andara | Level 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:30:19.453Z | 2026-10-03T18:30:28.137Z | 2026-10-03T18:30:28.435Z |
 | 31 | Alicia Guadalupe Guzmán Navarro | Level 13A | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:30:06.737Z | 2026-10-03T18:30:34.849Z | 2026-10-03T18:30:35.717Z |
 | 32 | Fernanda Issabella Mercado González | Ijep Level 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:23:49.735Z | 2026-10-03T18:26:46.502Z | 2026-10-03T18:30:59.135Z |
+| 33 | luis carlos romero mendez | 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:27:16.589Z | 2026-10-03T18:32:21.521Z | 2026-10-03T18:32:21.819Z |
