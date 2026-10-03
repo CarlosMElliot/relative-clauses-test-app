@@ -65,3 +65,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 59 | Luis Andara | Level 13 | 34/100 | 17/50 | 1 | Submitted by student | 2026-10-03T18:33:28.297Z | 2026-10-03T18:48:58.297Z | 2026-10-03T18:48:58.905Z |
 | 60 | Fernanda Issabella Mercado González | Ijep level 13 | 90/100 | 45/50 | 1 | Submitted by student | 2026-10-03T18:28:44.510Z | 2026-10-03T18:45:16.947Z | 2026-10-03T18:49:29.742Z |
 | 61 | Loriang De Jesus Masis Gonzalez | — | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:48:27.442Z | 2026-10-03T18:50:32.354Z | 2026-10-03T18:50:32.702Z |
+| 62 | Oscar Daniel Herrera Juarez | 13 | 100/100 | 50/50 | 5 | Submitted by student | 2026-10-03T18:34:55.332Z | 2026-10-03T18:51:46.317Z | 2026-10-03T18:51:36.178Z |
