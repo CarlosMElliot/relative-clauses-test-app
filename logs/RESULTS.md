@@ -63,3 +63,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 57 | Jafeth Jose Sanchez | A | 98/100 | 49/50 | 3 | Submitted by student | 2026-10-03T18:38:30.253Z | 2026-10-03T18:46:56.167Z | 2026-10-03T18:46:59.217Z |
 | 58 | luis carlos romero mendez | 13 | 92/100 | 46/50 | 2 | Submitted by student | 2026-10-03T18:32:29.469Z | 2026-10-03T18:48:37.173Z | 2026-10-03T18:48:37.503Z |
 | 59 | Luis Andara | Level 13 | 34/100 | 17/50 | 1 | Submitted by student | 2026-10-03T18:33:28.297Z | 2026-10-03T18:48:58.297Z | 2026-10-03T18:48:58.905Z |
+| 60 | Fernanda Issabella Mercado González | Ijep level 13 | 90/100 | 45/50 | 1 | Submitted by student | 2026-10-03T18:28:44.510Z | 2026-10-03T18:45:16.947Z | 2026-10-03T18:49:29.742Z |
