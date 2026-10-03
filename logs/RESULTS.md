@@ -45,3 +45,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 39 | Oscar Daniel Herrera Juarez | 13 | 0/100 | 0/50 | 4 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:34:23.976Z | 2026-10-03T18:34:49.068Z | 2026-10-03T18:34:38.649Z |
 | 40 | Andrea Sofia Flores Aleman | Level 13 | 0/100 | 0/50 | 4 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:35:07.845Z | 2026-10-03T18:35:15.880Z | 2026-10-03T18:35:16.108Z |
 | 41 | Andrea Sofia Flores Aleman | Level 13 | 0/100 | 0/50 | 5 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:35:55.067Z | 2026-10-03T18:36:04.372Z | 2026-10-03T18:36:04.603Z |
+| 42 | Andrea Sofia Flores Aleman | Level 13 | 0/100 | 0/50 | 6 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:37:40.544Z | 2026-10-03T18:37:45.747Z | 2026-10-03T18:37:46.144Z |
