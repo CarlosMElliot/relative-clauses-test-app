@@ -52,3 +52,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 46 | Andrea Sofia Flores Aleman | Level 13 | 0/100 | 0/50 | 10 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:38:26.789Z | 2026-10-03T18:38:34.223Z | 2026-10-03T18:38:34.327Z |
 | 47 | melany sofia martinez pérez | level 13 | 74/100 | 37/50 | 1 | Submitted by student | 2026-10-03T18:28:44.790Z | 2026-10-03T18:38:36.147Z | 2026-10-03T18:38:37.142Z |
 | 48 | sara aburto | level 13 A | 96/100 | 48/50 | 1 | Submitted by student | 2026-10-03T18:24:32.733Z | 2026-10-03T18:38:51.099Z | 2026-10-03T18:38:51.511Z |
+| 49 | Osmara Carolina Gutierrez Romero | Level 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:30:42.713Z | 2026-10-03T18:40:50.195Z | 2026-10-03T18:40:50.686Z |
