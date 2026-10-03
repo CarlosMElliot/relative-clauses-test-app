@@ -38,3 +38,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 32 | Fernanda Issabella Mercado González | Ijep Level 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:23:49.735Z | 2026-10-03T18:26:46.502Z | 2026-10-03T18:30:59.135Z |
 | 33 | luis carlos romero mendez | 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:27:16.589Z | 2026-10-03T18:32:21.521Z | 2026-10-03T18:32:21.819Z |
 | 34 | Oscar Daniel Herrera Juarez | 13 | 0/100 | 0/50 | 2 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:25:04.188Z | 2026-10-03T18:33:36.608Z | 2026-10-03T18:33:26.433Z |
+| 35 | Andrea Sofia Flores Aleman | Level 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:33:17.820Z | 2026-10-03T18:33:37.049Z | 2026-10-03T18:33:37.261Z |
