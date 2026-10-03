@@ -30,3 +30,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 24 | Leonel Andres Maltez Garcia | 13 | 0/100 | 0/50 | 2 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:25:58.007Z | 2026-10-03T18:26:00.515Z | 2026-10-03T18:26:00.579Z |
 | 25 | Osmara Carolina Gutierrez Romero | Level 13 | 0/100 | 0/50 | 2 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:24:56.900Z | 2026-10-03T18:26:43.242Z | 2026-10-03T18:26:43.480Z |
 | 26 | Alizeth Francela Sánchez Ruiz | 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:27:03.564Z | 2026-10-03T18:27:15.214Z | 2026-10-03T18:27:16.592Z |
+| 27 | Luis Andara | Level 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:26:08.292Z | 2026-10-03T18:27:42.027Z | 2026-10-03T18:27:42.335Z |
