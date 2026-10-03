@@ -19,3 +19,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 13 | Oscar Manuel Armas Pineda | Level 13 | 80/100 | 40/50 | 2 | Submitted by student | 2026-10-03T18:00:16.478Z | 2026-10-03T18:13:20.867Z | 2026-10-03T18:13:22.063Z |
 | 14 | Carlos Josue Mercado Obando | 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:22:35.248Z | 2026-10-03T18:22:59.749Z | 2026-10-03T18:23:01.219Z |
 | 15 | Carlos Josue Mercado Obando | 13 | 0/100 | 0/50 | 2 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:23:09.804Z | 2026-10-03T18:23:16.075Z | 2026-10-03T18:23:16.987Z |
+| 16 | Carlos Josue Mercado Obando | 13 | 0/100 | 0/50 | 3 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:23:22.084Z | 2026-10-03T18:23:26.588Z | 2026-10-03T18:23:27.577Z |
