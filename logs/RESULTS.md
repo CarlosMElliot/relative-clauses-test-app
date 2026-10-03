@@ -26,3 +26,4 @@ Newest submissions appear at the bottom. Every attempt is retained.
 | 20 | Osmara Carolina Gutierrez Romero | Level 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:24:42.072Z | 2026-10-03T18:24:51.301Z | 2026-10-03T18:24:51.550Z |
 | 21 | Amalia Sofia de Guadalupe Maltez Garcia | Level 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:24:53.329Z | 2026-10-03T18:24:57.121Z | 2026-10-03T18:24:57.590Z |
 | 22 | Amalia Sofia de Guadalupe Maltez Garcia | Level 13 | 0/100 | 0/50 | 2 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:25:04.729Z | 2026-10-03T18:25:27.764Z | 2026-10-03T18:25:28.211Z |
+| 23 | Leonel Andres Maltez Garcia | 13 | 0/100 | 0/50 | 1 | Attempt ended because the test lost focus or fullscreen mode. | 2026-10-03T18:25:05.110Z | 2026-10-03T18:25:51.111Z | 2026-10-03T18:25:51.191Z |
